@@ -32,7 +32,7 @@ function Header() {
           <Link to="/">
             <ProgressiveImage
               src={information.brandImage}
-              placeholder="/images/about-image-placeholder.png"
+              placeholder="/images/about-image-placeholder.jpg"
             >
               {(src) => <img src={src} alt="brandimage" />}
             </ProgressiveImage>

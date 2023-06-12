@@ -277,53 +277,66 @@ const database = {
     workingExperience: [
       {
         id: 1,
-        year: "2018 - Present",
-        position: "Frontend Web Developer",
-        company: "Abc Company",
-        details:
-          "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. Deleniti exercitationem nostrum quasi. Molestiae, vel porro.",
+        year: "2020 - Present",
+        position: "Senior Software Engineer",
+        company: "",
+        details: "",
       },
       {
         id: 2,
-        year: "2016 - 2018",
-        position: "Frontend Web Developer",
-        company: "CBA Company",
+        year: "2018 - 2019",
+        position: "Developer Lead",
+        company: "JP Morgan Chase & Co.",
         details:
-          "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. Deleniti exercitationem nostrum quasi. Molestiae, vel porro.",
+          "",
       },
       {
         id: 3,
-        year: "2014 - 1016",
-        position: "UI/UX Designer",
-        company: "Example Company",
+        year: "2019 - 2020",
+        position: "Associate, Software Engineer",
+        company: "JP Morgan Chase & Co.",
         details:
-          "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. Deleniti exercitationem nostrum quasi. Molestiae, vel porro.",
+          "",
       },
+      {
+        id: 4,
+        year: "2017 - 2018",
+        position: "Software Engineer",
+        company: "Vroom Inc",
+        details:
+          "",
+      },
+      {
+        id: 5,
+        year: "2016",
+        position: "Software Consultant",
+        company: "JC Penney",
+        details:
+          "",
+      },
+      {
+        id: 6,
+        year: "2014 - 2016",
+        position: "Software Consultant",
+        company: "JP Morgan Chase & Co.",
+        details:
+          "",
+      }
     ],
     educationExperience: [
       {
         id: 1,
-        year: "2018 - 2019",
+        year: "2013 - 2014",
         graduation: "Master of Science",
-        university: "Abc University",
-        details:
-          "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. Deleniti exercitationem nostrum quasi. Molestiae, vel porro.",
+        university: "University of Cincinnati",
+        details: "Computer Engineering Major",
       },
       {
         id: 2,
-        year: "2016 - 2018",
-        graduation: "Bachelor of Science",
-        university: "Abc University",
-        details:
-          "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. Deleniti exercitationem nostrum quasi. Molestiae, vel porro.",
-      },
-      {
-        id: 3,
-        year: "2015 - 2016",
-        graduation: "Higher Schoold Graduation",
-        university: "Abc College",
-        details:
-          "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. Deleniti exercitationem nostrum quasi. Molestiae, vel porro.",
+        year: "2009 - 2013",
+        graduation: "Bachelor of Technology",
+        university: "National Institute of Technology, Nagpur, India",
+        details: "Electronics and Communications Engineering",
       },
     ],
   },
