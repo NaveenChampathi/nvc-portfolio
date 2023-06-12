@@ -25,6 +25,7 @@
     "shave": "^4.0.0",
     "slick-carousel": "^1.8.1"
   },
+  "homepage": ".",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
